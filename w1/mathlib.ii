@@ -1,0 +1,14 @@
+# 0 "mathlib.cpp"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3
+# 0 "<command-line>" 2
+# 1 "mathlib.cpp"
+# 1 "mathlib.h" 1
+
+
+int add(int a,int b);
+# 2 "mathlib.cpp" 2
+int add(int a, int b){
+ return a+b;
+}
